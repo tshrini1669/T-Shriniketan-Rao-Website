@@ -1,0 +1,34 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+   color: darkred;
+}
+a{
+   color: darkblue;
+    font-size: 50;
+}
+h2{
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+h3{
+   color: brown;
+    font-size: 50;
+    font-family: Comic Sans MS;
+}
+p{
+    font-size: 35;
+    font-family: Dungeon;
+}
+li{
+    color:darkmagenta;
+    font-family:"Arial Rounded MT Bold";
+    font-size: 25;
+}
+#homepage{
+color: cadetblue;
+}
+body{
+    background-color: paleturquoise;
+}
